@@ -1,0 +1,25 @@
+{
+    "name": "Maze-solver",
+    "version": "1.0.0",
+    "description": "Maze solving algorithm for robots",
+    "keywords": "maze",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/0804robot/Maz--solver.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Sammy Oina",
+        "email": "sammyoina@gmail.com",
+        "maintainer": true
+      }
+    ],
+    "license": "MIT",
+    "homepage": "",
+    "dependencies": {
+    },
+    "frameworks": "*",
+    "platforms": "*"
+  }
