@@ -1,4 +1,4 @@
-#include <include/maze_solver.h>
+#include <maze_solver.h>
 
 maze_solver::maze_solver(wallToFollow wall, double threshold_right, double threshold_front, double threshold_left)
 {
